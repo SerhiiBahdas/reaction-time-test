@@ -10,7 +10,7 @@ This process repeats for a predefined number of tests. At the end of all tests, 
 
 ## Normal Reaction Times
 
-Most studies suggest that the average human reaction time is between 200 and 300 milliseconds. A good human reaction time, therefore, is faster than 200 ms, or as close to 200 ms as possible. There are 1000 ms in a second, so 200 ms is 1/5 of a second, and 300 ms is a little faster than 1/3 of a second.
+Most studies suggest that the average human reaction time is between 200 and 300 milliseconds. A good human reaction time, therefore, is as close to 200 ms as possible.
 
 ## Usage
 
